@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "wild-art-44d3",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "59bd73f5-06bc-4a53-9035-b90b2d81d1c1",
+      "database_name": "winter-thunder-7e47-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
